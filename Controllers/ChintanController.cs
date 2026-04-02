@@ -22,6 +22,10 @@ namespace DemoOne.Controllers
         {
             return View();
         }
+        public IActionResult Chintan()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
