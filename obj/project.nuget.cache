@@ -1,8 +1,21 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "GkduY1OqSHU=",
   "success": true,
   "projectFilePath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
+=======
+  "dgSpecHash": "SzEWBeqsTAI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\DemoOne.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

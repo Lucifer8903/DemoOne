@@ -8,11 +8,16 @@
     "net8.0": []
   },
   "packageFolders": {
+<<<<<<< Updated upstream
     "C:\\Users\\ZeeGadgets\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\Himani Deshmukh\\.nuget\\packages\\": {}
+>>>>>>> Stashed changes
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< Updated upstream
       "projectUniqueName": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
       "projectName": "DemoOne",
       "projectPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ZeeGadgets\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\DemoOne.csproj",
+      "projectName": "DemoOne",
+      "projectPath": "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\DemoOne.csproj",
+      "packagesPath": "C:\\Users\\Himani Deshmukh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Himani Deshmukh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> Stashed changes
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -70,5 +85,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

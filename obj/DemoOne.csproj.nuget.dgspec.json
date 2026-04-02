@@ -1,7 +1,11 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj": {}
+=======
+    "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\DemoOne.csproj": {}
+>>>>>>> Stashed changes
   },
   "projects": {
     "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj": {
@@ -9,12 +13,21 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
         "projectName": "DemoOne",
+<<<<<<< Updated upstream
         "projectPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
         "packagesPath": "C:\\Users\\ZeeGadgets\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ZeeGadgets\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+        "projectPath": "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\DemoOne.csproj",
+        "packagesPath": "C:\\Users\\Himani Deshmukh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Himani Deshmukh\\OneDrive\\Attachments\\Desktop\\farmbridge\\FarmBridge\\DemoOne\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Himani Deshmukh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> Stashed changes
         ],
         "originalTargetFrameworks": [
           "net8.0"
