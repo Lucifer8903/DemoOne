@@ -8,22 +8,17 @@ using Microsoft.Extensions.Logging;
 
 namespace DemoOne.Controllers
 {
-    // [Route("[controller]")]
-    public class KeyurController : Controller
+    [Route("[controller]")]
+    public class ShreyaController : Controller
     {
-        private readonly ILogger<KeyurController> _logger;
+        private readonly ILogger<ShreyaController> _logger;
 
-        public KeyurController(ILogger<KeyurController> logger)
+        public ShreyaController(ILogger<ShreyaController> logger)
         {
             _logger = logger;
         }
 
         public IActionResult Index()
-        {
-            return View();
-        }
-
-        public IActionResult Keyur()
         {
             return View();
         }
