@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj": {}
+    "D:\\Casepoint\\Git\\DemoOne\\DemoOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj": {
+    "D:\\Casepoint\\Git\\DemoOne\\DemoOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
+        "projectUniqueName": "D:\\Casepoint\\Git\\DemoOne\\DemoOne.csproj",
         "projectName": "DemoOne",
-        "projectPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
-        "packagesPath": "C:\\Users\\ZeeGadgets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\obj\\",
+        "projectPath": "D:\\Casepoint\\Git\\DemoOne\\DemoOne.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\Casepoint\\Git\\DemoOne\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ZeeGadgets\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
