@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj": {}
+    "E:\\CasepointAssignments\\git-repositories\\DemoOne\\DemoOne.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj": {
+    "E:\\CasepointAssignments\\git-repositories\\DemoOne\\DemoOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
+        "projectUniqueName": "E:\\CasepointAssignments\\git-repositories\\DemoOne\\DemoOne.csproj",
         "projectName": "DemoOne",
-        "projectPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\DemoOne.csproj",
-        "packagesPath": "C:\\Users\\ZeeGadgets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ZeeGadgets\\Documents\\demo\\DemoOne\\obj\\",
+        "projectPath": "E:\\CasepointAssignments\\git-repositories\\DemoOne\\DemoOne.csproj",
+        "packagesPath": "C:\\Users\\vatsa\\.nuget\\packages\\",
+        "outputPath": "E:\\CasepointAssignments\\git-repositories\\DemoOne\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ZeeGadgets\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\vatsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +43,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -61,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
