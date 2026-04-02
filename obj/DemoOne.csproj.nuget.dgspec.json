@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DemoTesting\\DemoOne\\DemoOne.csproj": {}
+    "D:\\TESTGIT\\DemoOne\\DemoOne.csproj": {}
   },
   "projects": {
-    "E:\\DemoTesting\\DemoOne\\DemoOne.csproj": {
+    "D:\\TESTGIT\\DemoOne\\DemoOne.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DemoTesting\\DemoOne\\DemoOne.csproj",
+        "projectUniqueName": "D:\\TESTGIT\\DemoOne\\DemoOne.csproj",
         "projectName": "DemoOne",
-        "projectPath": "E:\\DemoTesting\\DemoOne\\DemoOne.csproj",
-        "packagesPath": "C:\\Users\\Keyur\\.nuget\\packages\\",
-        "outputPath": "E:\\DemoTesting\\DemoOne\\obj\\",
+        "projectPath": "D:\\TESTGIT\\DemoOne\\DemoOne.csproj",
+        "packagesPath": "C:\\Users\\01\\.nuget\\packages\\",
+        "outputPath": "D:\\TESTGIT\\DemoOne\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Keyur\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\01\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
