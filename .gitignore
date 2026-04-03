@@ -6,6 +6,13 @@
 # dotenv files
 .env
 
+
+obj/
+bin/
+node_modules/
+.env
+
+
 # User-specific files
 *.rsuser
 *.suo
